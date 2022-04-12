@@ -1,1 +1,1 @@
-# rust-begginer
+# rust-beginner
